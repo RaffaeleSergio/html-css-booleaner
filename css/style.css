@@ -16,3 +16,56 @@ h1{
 
 }
     
+.scrittab{
+    font-weight: 300;
+    color: rgb(112, 212, 252);
+}
+
+.sezione1010{
+    padding-left: 200px; 
+}
+
+.data{
+    color: rgb(116, 115, 115);
+    text-align: 80px;
+}
+.data2{
+    color: rgb(116, 115, 115);
+}
+
+.immagini{
+    padding-left: 200px;
+}
+
+.foto{
+    font-size: small;
+}
+
+.Lorem{
+    text-align: justify;
+    margin: 50px;
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    padding-left: 225px;
+}
+.evizenziato{
+    font-weight: 300;
+    background-color: rgb(236, 236, 36);
+}
+
+table{
+    padding-left: 200px;
+}
+
+thead{
+    height: 10px;
+background-color: rgb(44, 83, 227);
+color: white;
+}
+
+.bodytr{
+    height: 20px;
+background-color: rgb(160, 178, 244);
+}
