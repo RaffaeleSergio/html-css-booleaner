@@ -66,6 +66,17 @@ color: white;
 }
 
 .bodytr{
-    height: 20px;
+    height: 40px;
 background-color: rgb(160, 178, 244);
+}
+
+.bodytr1{
+    height: 40px;
+}
+
+footer{
+    height: 60px;  
+    text-align: center;
+    color: white;
+    background-color: rgb(44, 83, 227);
 }
