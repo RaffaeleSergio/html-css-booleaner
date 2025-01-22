@@ -14,6 +14,7 @@ header {
 h1 {
     font-size: 40px;
     padding-left: 200px;
+    margin-bottom: 0px;
 
 }
 
@@ -29,12 +30,16 @@ h1 {
 .data {
     color: rgb(116, 115, 115);
     text-align: 80px;
-    
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .data2 {
     color: rgb(116, 115, 115);
+    margin-top: 0px;
+    
 }
+
 
 .immagini {
     padding-left: 200px;
@@ -42,6 +47,8 @@ h1 {
 
 .foto {
     font-size: small;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .Lorem {
@@ -65,6 +72,7 @@ ul {
 
 table {
     padding-left: 200px;
+    width: 1750px
 }
 
 thead {
@@ -76,26 +84,39 @@ thead {
 .bodytr {
     height: 40px;
     background-color: rgb(160, 178, 244);
+    
 }
 
 .bodytr1 {
     height: 40px;
+    
 }
 
 footer {
-    height: 60px;
+    height: 40px;
+    width: auto;
     text-align: center;
     color: white;
     background-color: rgb(44, 83, 227);
-    padding: auto;
+    padding: 10px;
 }
 
 
 .th1{
-    padding-right: 1240px;
+    text-align: left;
     
 }
 
 .bodytd{
 text-align: justify;
+
+}
+
+div{
+    height: 100px;
+}
+
+.bodytd1{
+    width: 300px;
+    text-align: left;
 }
