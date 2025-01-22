@@ -1,82 +1,101 @@
-header{
+header {
     height: 100px;
-    background-image: url(../img/pattern.png); height: 150px;
-background-color: rgb(112, 212, 252);
+    background-image: url(../img/pattern.png);
+    height: 150px;
+    background-color: rgb(112, 212, 252);
 }
 
-.logo{
+.logo {
     height: 50px;
     margin: 50px;
     padding-left: 150px;
 }
 
-h1{
+h1 {
     font-size: 40px;
     padding-left: 200px;
 
 }
-    
-.scrittab{
+
+.scrittab {
     font-weight: 300;
     color: rgb(112, 212, 252);
 }
 
-.sezione1010{
-    padding-left: 200px; 
-}
-
-.data{
-    color: rgb(116, 115, 115);
-    text-align: 80px;
-}
-.data2{
-    color: rgb(116, 115, 115);
-}
-
-.immagini{
+.sezione1010 {
     padding-left: 200px;
 }
 
-.foto{
+.data {
+    color: rgb(116, 115, 115);
+    text-align: 80px;
+    
+}
+
+.data2 {
+    color: rgb(116, 115, 115);
+}
+
+.immagini {
+    padding-left: 200px;
+}
+
+.foto {
     font-size: small;
 }
 
-.Lorem{
+.Lorem {
+    padding-left: 150px;
+    height: 100px;
+    width: 1500px;
     text-align: justify;
     margin: 50px;
     font-size: 20px;
 }
-ul{
+
+ul {
     font-size: 20px;
     padding-left: 225px;
 }
-.evizenziato{
+
+.evizenziato {
     font-weight: 300;
     background-color: rgb(236, 236, 36);
 }
 
-table{
+table {
     padding-left: 200px;
 }
 
-thead{
+thead {
     height: 10px;
-background-color: rgb(44, 83, 227);
-color: white;
+    background-color: rgb(44, 83, 227);
+    color: white;
 }
 
-.bodytr{
+.bodytr {
     height: 40px;
-background-color: rgb(160, 178, 244);
+    background-color: rgb(160, 178, 244);
 }
 
-.bodytr1{
+.bodytr1 {
     height: 40px;
 }
 
-footer{
-    height: 60px;  
+footer {
+    height: 60px;
     text-align: center;
     color: white;
     background-color: rgb(44, 83, 227);
+    padding: auto;
+}
+
+
+.th1{
+    padding-right: 1240px;
+    
+}
+
+.bodytd{
+text-align: justify;
 }
